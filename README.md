@@ -1,4 +1,4 @@
-# Election-Management-System_VTU_MiniProject
+
 A simple election management system that uses files to keep track of voters and count the votes inorder to declare the winner. 
 The votes casted by a voter is stored in a file. 
 The list of entries in the file is converted  into an array of vectors. 
